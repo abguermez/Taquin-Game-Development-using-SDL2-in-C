@@ -1,6 +1,5 @@
 # Taquin-Game-Development-using-SDL2-in-C
-In this project, I developed a Taquin game using the SDL2 library and the C programming language. The game featured a graphical user interface, allowing players to move tiles and rearrange the board to solve the puzzle. I implemented various game mechanics and features, such as the ability to shuffle the board and track the player's progress.
-
+In this project, we developed a Taquin game using the SDL2 library and the C programming language. The game featured a graphical user interface, allowing players to move tiles and rearrange the board to solve the puzzle. We implemented various game mechanics and features, such as the ability to shuffle the board and track the player's progress.
 ## - Why SDL2?
 I used the SDL2 library in C to build my taquin game for several reasons. Firstly, SDL2 is a powerful and popular cross-platform library that provides access to audio, graphics, input, and networking functionalities. This allowed me to create a smooth and engaging gaming experience with responsive controls and high-quality visuals. Additionally, SDL2 is relatively easy to learn and use, making it a great choice for developers of all skill levels. Finally, SDL2 has excellent documentation and an active community, which provided me with valuable resources and support throughout the development process. Overall, I found that SDL2 was the ideal choice for creating my taquin game, and I would recommend it to anyone looking to build a similar project.
 ## - Guide to use SDL2?
