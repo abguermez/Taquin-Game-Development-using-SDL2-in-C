@@ -2,7 +2,6 @@
 In this project, we developed a Taquin game using the SDL2 library and the C programming language. The game featured a graphical user interface, allowing players to move tiles and rearrange the board to solve the puzzle. We implemented various game mechanics and features, such as the ability to shuffle the board and track the player's progress.
 #### - Teams:
   - [Abdellah ELGuermez](https://www.linkedin.com/in/abguermez/)
-  - [Yahya Benbaba](https://www.linkedin.com/in/yahya-benbaba-0027a8171/)
   - [Meryem Iben el rhazi](https://www.linkedin.com/in/meryem-iben-el-rhazi-345227246/)
   - [Najlae Hmimina](https://www.linkedin.com/in/najlae-hmimina-a23048249/)
 ## - Why SDL2?
